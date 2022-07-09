@@ -21,10 +21,11 @@
             <div class="nav-links" id="navLinks">
                 <i class="fa fa-window-close" onclick="hideMenu()"></i>
                 <ul>
-                    <li><a href="">HOME</a></li>
-                    <li><a href="">SHOP</a></li>
-                    <li><a href="">CONTACT</a></li>
-                    <li><a href="">LOGIN</a></li>
+                    <li><a href="/">HOME</a></li>
+                    <li><a href="/shop">SHOP</a></li>
+                    <li><a href="/contact">CONTACT</a></li>
+                    <li><a href="/signup">LOGIN</a></li>
+                    <li><a href="/admin">ADMIN</a></li>
                 </ul>
             </div>
             <i class="fa fa-bars" onclick="showMenu()"></i>
